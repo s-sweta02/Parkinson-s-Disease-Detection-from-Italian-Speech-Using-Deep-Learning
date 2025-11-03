@@ -3,7 +3,7 @@ Overview:
 This project focuses on early and non-invasive detection of Parkinson’s Disease (PD) by analyzing Italian speech signals using Machine Learning and Deep Learning approaches.
 The study introduces a Hybrid Feature Set — a fusion of 6,373 Linear and 9 Non-Linear acoustic features — to capture both spectral and chaotic properties of speech for robust PD classification.
 
- Key Highlights
+ Key Highlights:
 
 i) Dataset: Italian Parkinson’s Voice and Speech Dataset (IEEE DataPort).
 21 Healthy Speakers
